@@ -1,0 +1,15 @@
+html,body{
+  margin:0;
+  padding:0;
+}
+.msg{
+  font-size:64px;
+}
+.center{
+  width: 100%;
+  high: 100%;
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: center;
+}
